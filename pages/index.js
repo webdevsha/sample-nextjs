@@ -4,9 +4,9 @@ export default function Home() {
       {/* left side */}
       <div className="lg:w-1/2 relative z-10 flex flex-col justify-center px-10 lg:px-20 py-20 lg:py-0 text-left">
         <h2 className="inter text-4xl mb-3 font-bold text-gray-800">
-          Welcome to Your Next.js App{" "}
-          <span className="block text-blue-500 text-2xl font-normal">
-            Deployed to DigitalOcean
+          Welcome to Ramah{" "}
+          <span className="block text-green-500 text-2xl font-normal">
+            Be kind to ourselves
           </span>
         </h2>
 
@@ -22,10 +22,10 @@ export default function Home() {
             View the Docs
           </a>
           <a
-            href="https://cloud.digitalocean.com/apps"
+            href="https:sha.cubicpeople.com"
             className="block py-2 px-5 rounded shadow bg-blue-500 text-blue-100"
           >
-            View Your Dashboard
+            Check out my profile
           </a>
         </div>
       </div>
